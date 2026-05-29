@@ -1,1 +1,1 @@
-import "C:/Users/jim chen/vuepress-blog/docs/.vuepress/styles/index.scss"
+import "C:/Users/coolcat/myblog/docs/.vuepress/styles/index.scss"

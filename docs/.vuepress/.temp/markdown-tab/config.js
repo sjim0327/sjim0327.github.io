@@ -1,5 +1,5 @@
-import { CodeTabs } from "C:/Users/jim chen/vuepress-blog/node_modules/@vuepress/plugin-markdown-tab/dist/client/components/CodeTabs.js";
-import { Tabs } from "C:/Users/jim chen/vuepress-blog/node_modules/@vuepress/plugin-markdown-tab/dist/client/components/Tabs.js";
+import { CodeTabs } from "C:/Users/coolcat/myblog/node_modules/@vuepress/plugin-markdown-tab/dist/client/components/CodeTabs.js";
+import { Tabs } from "C:/Users/coolcat/myblog/node_modules/@vuepress/plugin-markdown-tab/dist/client/components/Tabs.js";
 
 export default {
   enhance: ({ app }) => {
