@@ -1,0 +1,25 @@
+{
+  "name": "coolcat",
+  "version": "0.0.1",
+  "description": "myblog",
+  "keywords": [
+    "cool"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "q"
+  },
+  "license": "ISC",
+  "author": "jim",
+  "type": "commonjs",
+  "main": "cool.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.30",
+    "@vuepress/theme-default": "^2.0.0-rc.130",
+    "vuepress": "^2.0.0-rc.30"
+  }
+}
