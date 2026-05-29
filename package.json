@@ -2,20 +2,14 @@
   "name": "coolcat",
   "version": "0.0.1",
   "description": "myblog",
-  "keywords": [
-    "cool"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "q"
-  },
+  "keywords": ["cool"],
   "license": "ISC",
   "author": "jim",
   "type": "commonjs",
   "main": "cool.js",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "npx vuepress dev docs",
+    "docs:build": "npx vuepress build docs"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.30",
