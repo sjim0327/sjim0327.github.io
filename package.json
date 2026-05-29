@@ -8,8 +8,8 @@
   "type": "commonjs",
   "main": "cool.js",
   "scripts": {
-    "docs:dev": "npx vuepress dev docs",
-    "docs:build": "npx vuepress build docs"
+  "docs:dev": "node ./node_modules/vuepress/bin/vuepress.js dev docs",
+  "docs:build": "node ./node_modules/vuepress/bin/vuepress.js build docs"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.30",
