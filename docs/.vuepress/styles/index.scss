@@ -1,0 +1,23 @@
+// 自定义主题色
+:root {
+  // 主题色（绿色调）
+  --c-brand: #42b983;
+  --c-brand-light: #5ccf99;
+  
+  // 暗色模式下的主题色
+  --c-brand-dark: #3aa776;
+}
+
+// 自定义导航栏样式
+.navbar {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  border-bottom: none;
+}
+
+// 自定义首页 Hero 区域
+.home .hero img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
